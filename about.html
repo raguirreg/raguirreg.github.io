@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>About Me</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Raúl Aguirre-Gamboa</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="about.html">About Me</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">About Me</h1>
+
+</div>
+
+
+<p>Born and partially raised in <a href="https://en.wikipedia.org/wiki/Monterrey">Monterrey</a>, México. I studied Bachelor in Genomic Biotechnology (a newly created bachelor at that time ~2005), where I became hooked with research and specially with computational biology where we can leaverage computational and statistical techniques to answer complex biological questions. After concluding my BSc, I started a Masters degree in Bioinformatics at the <a href="https://tec.mx/en">Tecnológico de Monterrey</a>, where I became an intern at the Bioinformatics lab at the National School of Medical Sciences under the supervission of <a href="http://www.tecgradschool.mx/teachers/phd/computer-science/victor-manuel-trevino-alvarado-phd">Prof. Victor Treviño</a>. At Dr. Treviño’s lab we developed and implemented two web tools: <a href="http://bioinformatica.mty.itesm.mx:8080/Biomatec/SurvivaX.jsp">SurvExpress</a> (Aguirre-Gamboa et al. 2013) and <a href="http://bioinformatica.mty.itesm.mx:8080/Biomatec/Survmicro.jsp">SurvMicro</a> (Aguirre-Gamboa and Trevino 2014). SurvExpress and SurvMIcro are built on databases of ≥39,000 transcriptionally profiled and ≥4,000 microRNA cancer biopsies that have been associated to an outcome-like phenotype such as time-to-survival or time-to-response. We used this database to provide users with an easy-to-use platform that evaluates, in multivariate fashion, if their gene sets/biomarkers are significantly associated to time-to-outcome phenotypes in multiple types of cancer.</p>
+<p>In 2014, I started my PhD at the <a href="https://www.umcg.nl">University Medical Center Groningen</a> in the Netherlands where I joined the research group of <a href="https://www.rug.nl/research/genetics/staff/cisca-wijmenga">Prof. Cisca Wijmenga</a> under the co-supervision of <a href="https://www.rug.nl/research/genetics/staff/yang-li?lang=en">Dr. Yang Li</a>. I became involved in the data analysis team of the 500FG cohort, a study within the Human Functional Genomics Project <a href="http://www.humanfunctionalgenomics.org/">(HFGP)</a> (Netea et al. 2016). The <a href="http://www.humanfunctionalgenomics.org/site/?page_id=82">500FG cohort</a> consists of 500 Dutch individuals who were deeply immuno-phenotyped. The data collected included cell counts of adaptive immune subpopulations through FACS (Aguirre-Gamboa et al. 2016) and cytokine production upon ex vivo simulations (Li et al. 2016). Within the HFGP, I was responsible for the analysis performed on the cell counts (Aguirre-Gamboa et al. 2016), where we described the genetic component behind cell composition through QTL mapping and quantified the percentage of variance explained by common genetic variations. We discovered that nearly all B cell subtypes quantified in this study were significantly associated with seasonal effects, indicating that their levels were significantly different between summer and winter. Furthermore, we performed an integrative analysis using all available layers of molecular information gathered in the 500FG cohort to describe how much of the inter-individual variation in immune response (up to 67% for certain responses) upon stimulation by multiple pathogens can be explained by integrating baseline immune and molecular parameters and genetic information (Bakker et al. 2018).</p>
+<div id="references" class="section level2">
+<h2>References</h2>
+<p>Aguirre-Gamboa, Raul, Hugo Gomez-Rueda, Emmanuel Martínez-Ledesma, Antonio Martínez-Torteya, Rafael Chacolla-Huaringa, Alberto Rodriguez-Barrientos, José G. Tamez-Peña, and Victor Treviño. 2013. “SurvExpress: An Online Biomarker Validation Tool and Database for Cancer Gene Expression Data Using Survival Analysis.” PloS One 8 (9): e74250.</p>
+<p>Aguirre-Gamboa, Raul, Irma Joosten, Paulo C. M. Urbano, Renate G. van der Molen, Esther van Rijssen, Bram van Cranenbroek, Marije Oosting, et al. 2016. “Differential Effects of Environmental and Genetic Factors on T and B Cell Immune Traits.” Cell Reports 17 (9): 2474–87.</p>
+<p>Aguirre-Gamboa, Raul, and Victor Trevino. 2014. “SurvMicro: Assessment of miRNA-Based Prognostic Signatures for Cancer Clinical Outcomes by Multivariate Survival Analysis.” Bioinformatics 30 (11): 1630–32. Bakker, Olivier B., Raul Aguirre-Gamboa, Serena Sanna, Marije Oosting, Sanne P. Smeekens, Martin Jaeger, Maria Zorro, et al. 2018. “Integration of Multi-Omics Data and Deep Phenotyping Enables Prediction of Cytokine Responses.” Nature Immunology 19 (7): 776–86.</p>
+<p>Li, Yang, Marije Oosting, Sanne P. Smeekens, Martin Jaeger, Raul Aguirre-Gamboa, Kieu T. T. Le, Patrick Deelen, et al. 2016. “A Functional Genomics Approach to Understand Variation in Cytokine Production in Humans.” Cell 167 (4): 1099–1110.e14.</p>
+<p>Netea, Mihai G., Leo A. B. Joosten, Yang Li, Vinod Kumar, Marije Oosting, Sanne Smeekens, Martin Jaeger, et al. 2016. “Understanding Human Immune Function Using the Resources from the Human Functional Genomics Project.” Nature Medicine 22 (8): 831–33.</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

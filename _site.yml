@@ -1,9 +1,11 @@
 name: "Raúl Aguirre-Gamboa"
 output_dir: "."
 navbar:
-  title: "Raúl Aguirre-Gamboa Website"
+  title: "Raúl Aguirre-Gamboa"
   left:
-    - text: "Home"
-      href: index.html
     - text: "About Me"
       href: about.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css

@@ -1,0 +1,143 @@
+@article{aguirre2013survexpress,
+  title={SurvExpress: an online biomarker validation tool and database for cancer gene expression data using survival analysis},
+  author={Aguirre-Gamboa, Raul and Gomez-Rueda, Hugo and Mart{\'\i}nez-Ledesma, Emmanuel and Mart{\'\i}nez-Torteya, Antonio and Chacolla-Huaringa, Rafael and Rodriguez-Barrientos, Alberto and Tamez-Pena, Jose G and Trevino, Victor},
+  journal={PloS one},
+  volume={8},
+  number={9},
+  pages={e74250},
+  year={2013},
+  publisher={Public Library of Science}
+}
+
+@article{aguirre2014survmicro,
+  title={SurvMicro: assessment of miRNA-based prognostic signatures for cancer clinical outcomes by multivariate survival analysis},
+  author={Aguirre-Gamboa, Raul and Trevino, Victor},
+  journal={Bioinformatics},
+  volume={30},
+  number={11},
+  pages={1630--1632},
+  year={2014},
+  publisher={Oxford University Press}
+}
+
+@article{aguirre2016efficient,
+  title={Efficient Gene Selection for Cancer Prognostic Biomarkers Using Swarm Optimization and Survival Analysis},
+  author={Aguirre-Gamboa, Raul and Martinez-Ledesma, Emmanuel and Gomez-Rueda, Hugo and Palacios, Rebeca and Fuentes-Hernandez, Isabel and S{\'a}nchez-Canales, Emilio and Chacolla-Huaringa, Rafael and Cardona-Huerta, Servando and Villela, Luis and Scott, Sean-Patrick and others},
+  journal={Current Bioinformatics},
+  volume={11},
+  number={3},
+  pages={310--323},
+  year={2016},
+  publisher={Bentham Science Publishers}
+}
+
+@article{netea2016understanding,
+  title={Understanding human immune function using the resources from the Human Functional Genomics Project},
+  author={Netea, Mihai G and Joosten, Leo AB and Li, Yang and Kumar, Vinod and Oosting, Marije and Smeekens, Sanne and Jaeger, Martin and ter Horst, Rob and Schirmer, Melanie and Vlamakis, Hera and others},
+  journal={Nature medicine},
+  volume={22},
+  number={8},
+  pages={831},
+  year={2016},
+  publisher={Nature Publishing Group}
+}
+
+@article{aguirre2016differential,
+  title={Differential effects of environmental and genetic factors on T and B cell immune traits},
+  author={Aguirre-Gamboa, Raul and Joosten, Irma and Urbano, Paulo CM and van der Molen, Renate G and van Rijssen, Esther and van Cranenbroek, Bram and Oosting, Marije and Smeekens, Sanne and Jaeger, Martin and Zorro, Maria and others},
+  journal={Cell reports},
+  volume={17},
+  number={9},
+  pages={2474--2487},
+  year={2016},
+  publisher={Cell Press}
+}
+
+@article{li2016functional,
+  title={A functional genomics approach to understand variation in cytokine production in humans},
+  author={Li, Yang and Oosting, Marije and Smeekens, Sanne P and Jaeger, Martin and Aguirre-Gamboa, Raul and Le, Kieu TT and Deelen, Patrick and Rica{\~n}o-Ponce, Isis and Schoffelen, Teske and Jansen, Anne FM and others},
+  journal={Cell},
+  volume={167},
+  number={4},
+  pages={1099--1110},
+  year={2016},
+  publisher={Cell Press}
+}
+
+@article{stolle2018running,
+  title={Running-wheel activity delays mitochondrial respiratory flux decline in aging mouse muscle via a post-transcriptional mechanism},
+  author={Stolle, Sarah and Ciapaite, Jolita and Reijne, Aaffien C and Talarovicova, Alzbeta and Wolters, Justina C and Aguirre-Gamboa, Ra{\'u}l and van der Vlies, Pieter and de Lange, Kim and Neerincx, Pieter B and van der Vries, Gerben and others},
+  journal={Aging cell},
+  volume={17},
+  number={1},
+  pages={e12700},
+  year={2018}
+}
+
+@article{urbano2018tnf,
+  title={TNF-$\alpha$--induced protein 3 (TNFAIP3)/A20 acts as a master switch in TNF-$\alpha$ blockade--driven IL-17A expression},
+  author={Urbano, Paulo CM and Aguirre-Gamboa, Ra{\'u}l and Ashikov, Angel and van Heeswijk, Bennie and Krippner-Heidenreich, Anja and Tijssen, Henk and Li, Yang and Azevedo, Valderilio F and Smits, Lisa JT and Hoentjen, Frank and others},
+  journal={Journal of Allergy and Clinical Immunology},
+  volume={142},
+  number={2},
+  pages={517--529},
+  year={2018},
+  publisher={Mosby}
+}
+
+@article{van2018cerebral,
+  title={Cerebral tryptophan metabolism and outcome of tuberculous meningitis: an observational cohort study},
+  author={van Laarhoven, Arjan and Dian, Sofiati and Aguirre-Gamboa, Ra{\'u}l and Avila-Pacheco, Julian and Rica{\~n}o-Ponce, Isis and Ruesen, Carolien and Annisa, Jessi and Koeken, Valerie ACM and Chaidir, Lidya and Li, Yang and others},
+  journal={The Lancet Infectious Diseases},
+  volume={18},
+  number={5},
+  pages={526--535},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{xu2018dna,
+  title={DNA methylation in childhood asthma: an epigenome-wide meta-analysis},
+  author={Xu, Cheng-Jian and S{\"o}derh{\"a}ll, Cilla and Bustamante, Mariona and Ba{\"\i}z, Nour and Gruzieva, Olena and Gehring, Ulrike and Mason, Dan and Chatzi, Leda and Basterrechea, Mikel and Llop, Sabrina and others},
+  journal={The Lancet Respiratory Medicine},
+  volume={6},
+  number={5},
+  pages={379--388},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{bakker2018integration,
+  title={Integration of multi-omics data and deep phenotyping enables prediction of cytokine responses},
+  author={Bakker, Olivier B and Aguirre-Gamboa, Raul and Sanna, Serena and Oosting, Marije and Smeekens, Sanne P and Jaeger, Martin and Zorro, Maria and V{\~o}sa, Urmo and Withoff, Sebo and Netea-Maier, Romana T and others},
+  journal={Nature immunology},
+  pages={1},
+  year={2018},
+  publisher={Nature Publishing Group}
+}
+
+@article{koeken2018survival,
+  title={Survival of tuberculous meningitis is linked to cerebrospinal fluid vascular endothelial growth factor},
+  author={Koeken, Valerie ACM and van Laarhoven, Arjan and Aguirre-Gamboa, Ra{\'u}l and Dian, Sofiati and Annisa, Jessi and Chaidir, Lidya and Herawan, Robbie and Ruslami, Rovina and Ahmad, Tri Hanggono and Netea, Mihai G and others},
+  journal={PDF hosted at the Radboud Repository of the Radboud University Nijmegen},
+  pages={203},
+  year={2018}
+}
+
+@inproceedings{kumar2018genetic,
+  title={A genetic and genomics approach identifies novel pathways of human antifungal immune responses},
+  author={Kumar, Vinod and Matzaraki, Vasiliki and Jaeger, Martin and Aguirre-Gamboa, R and Johnson, Melissa D and Netea, Mihai G and Wijmenga, Cisca},
+  booktitle={MEDICAL MYCOLOGY},
+  volume={56},
+  pages={S61--S61},
+  year={2018},
+  organization={OXFORD UNIV PRESS GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND}
+}
+
+@article{tunjungputri2018inter,
+  title={The Inter-Relationship of Platelets with Interleukin-1$\beta$-Mediated Inflammation in Humans},
+  author={Tunjungputri, Rahajeng N and Li, Yang and de Groot, Philip G and Dinarello, Charles A and Smeekens, Sanne P and Jaeger, Martin and Doppenberg-Oosting, Marije and Cruijsen, Milou and Lemmers, Heidi and Toenhake-Dijkstra, Helga and others},
+  journal={Thrombosis and haemostasis},
+  year={2018},
+  publisher={Georg Thieme Verlag KG}
+}
