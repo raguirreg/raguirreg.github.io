@@ -1,0 +1,9 @@
+name: "Raúl Aguirre-Gamboa"
+output_dir: "."
+navbar:
+  title: "Raúl Aguirre-Gamboa Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
